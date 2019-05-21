@@ -1,2 +1,3 @@
 Steps: 
+HTML Page with username & password
 Stream the video continuously to the web
